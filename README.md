@@ -20,6 +20,6 @@ The code also includes a script to scrape articles from multiple pages and save 
 To use the code:
 
 1. Install the required libraries.
-2. Adjust the `num_pages` variable in the script to specify the number of pages to scrape.
+2. Adjust the `num_pages` and the `website` variables in the script.
 3. Run the script to start the scraping process.
 4. The scraped articles will be saved as text files in a folder named "articles".
